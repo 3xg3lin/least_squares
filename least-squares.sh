@@ -1,6 +1,6 @@
 #!/bin/bash
-# Number of room (x)   | 1 | 3 | 4 | 6  |
-# House price (y)      | 5 | 7 | 9 | 11 |
+# Number of room (x)(first line in test.txt)    | 1 | 3 | 4 | 6  |
+# House price (y)(second line in test.txt)      | 5 | 7 | 9 | 11 |
 #
 xtotal=0
 ytotal=0
